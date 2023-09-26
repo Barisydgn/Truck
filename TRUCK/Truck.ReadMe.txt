@@ -1,0 +1,7 @@
+Projem hayali bir kiralama şirketi hakkındadır.
+İş makinesi ekleyip, operatör ekleyebildiğiniz ve satışların tek tek takibini yapabildiğiniz bir uygulamadır.
+
+Admin area girişini göz önünde olsun diye template'e yerleştirdim.
+Operatör ve iş makinesi ekleme çıkarma ve güncelleme işlemleri sadece admin panelden yapılmaktadır.
+Üyelik girişi yapmaya gerek kalmadan kiralama başvurusunda bulunulabilir ve iş aracı operatör listesi görüntülenebilir.
+Satışları sadece admin panelden admin görüntülüyebilir.

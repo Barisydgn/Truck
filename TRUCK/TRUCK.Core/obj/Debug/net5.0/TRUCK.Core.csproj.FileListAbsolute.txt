@@ -1,0 +1,144 @@
+C:\Users\Akın Sözen\Desktop\TRUCK\TRUCK\TRUCK.Core\bin\Debug\net5.0\TRUCK.Core.deps.json
+C:\Users\Akın Sözen\Desktop\TRUCK\TRUCK\TRUCK.Core\bin\Debug\net5.0\TRUCK.Core.dll
+C:\Users\Akın Sözen\Desktop\TRUCK\TRUCK\TRUCK.Core\bin\Debug\net5.0\TRUCK.Core.pdb
+C:\Users\Akın Sözen\Desktop\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.csproj.AssemblyReference.cache
+C:\Users\Akın Sözen\Desktop\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akın Sözen\Desktop\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.AssemblyInfoInputs.cache
+C:\Users\Akın Sözen\Desktop\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.AssemblyInfo.cs
+C:\Users\Akın Sözen\Desktop\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.csproj.CoreCompileInputs.cache
+C:\Users\Akın Sözen\Desktop\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.dll
+C:\Users\Akın Sözen\Desktop\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\refint\TRUCK.Core.dll
+C:\Users\Akın Sözen\Desktop\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.pdb
+C:\Users\Akın Sözen\Desktop\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\ref\TRUCK.Core.dll
+C:\Users\akinnsozen\Desktop\TRUCK\TRUCK\TRUCK.Core\bin\Debug\net5.0\TRUCK.Core.deps.json
+C:\Users\akinnsozen\Desktop\TRUCK\TRUCK\TRUCK.Core\bin\Debug\net5.0\TRUCK.Core.dll
+C:\Users\akinnsozen\Desktop\TRUCK\TRUCK\TRUCK.Core\bin\Debug\net5.0\TRUCK.Core.pdb
+C:\Users\akinnsozen\Desktop\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.csproj.AssemblyReference.cache
+C:\Users\akinnsozen\Desktop\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akinnsozen\Desktop\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.AssemblyInfoInputs.cache
+C:\Users\akinnsozen\Desktop\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.AssemblyInfo.cs
+C:\Users\akinnsozen\Desktop\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.csproj.CoreCompileInputs.cache
+C:\Users\akinnsozen\Desktop\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.dll
+C:\Users\akinnsozen\Desktop\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\refint\TRUCK.Core.dll
+C:\Users\akinnsozen\Desktop\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.pdb
+C:\Users\akinnsozen\Desktop\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\ref\TRUCK.Core.dll
+C:\Users\Akın Sözen\Desktop\TRUCK\TRUCK\TRUCK\TRUCK.Core\bin\Debug\net5.0\TRUCK.Core.deps.json
+C:\Users\Akın Sözen\Desktop\TRUCK\TRUCK\TRUCK\TRUCK.Core\bin\Debug\net5.0\TRUCK.Core.dll
+C:\Users\Akın Sözen\Desktop\TRUCK\TRUCK\TRUCK\TRUCK.Core\bin\Debug\net5.0\TRUCK.Core.pdb
+C:\Users\Akın Sözen\Desktop\TRUCK\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.csproj.AssemblyReference.cache
+C:\Users\Akın Sözen\Desktop\TRUCK\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akın Sözen\Desktop\TRUCK\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.AssemblyInfoInputs.cache
+C:\Users\Akın Sözen\Desktop\TRUCK\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.AssemblyInfo.cs
+C:\Users\Akın Sözen\Desktop\TRUCK\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.csproj.CoreCompileInputs.cache
+C:\Users\Akın Sözen\Desktop\TRUCK\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.dll
+C:\Users\Akın Sözen\Desktop\TRUCK\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\refint\TRUCK.Core.dll
+C:\Users\Akın Sözen\Desktop\TRUCK\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.pdb
+C:\Users\Akın Sözen\Desktop\TRUCK\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\ref\TRUCK.Core.dll
+C:\Users\akinnsozen\Desktop\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\bin\Debug\net5.0\TRUCK.Core.deps.json
+C:\Users\akinnsozen\Desktop\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\bin\Debug\net5.0\TRUCK.Core.dll
+C:\Users\akinnsozen\Desktop\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\bin\Debug\net5.0\TRUCK.Core.pdb
+C:\Users\akinnsozen\Desktop\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.csproj.AssemblyReference.cache
+C:\Users\akinnsozen\Desktop\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akinnsozen\Desktop\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.AssemblyInfoInputs.cache
+C:\Users\akinnsozen\Desktop\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.AssemblyInfo.cs
+C:\Users\akinnsozen\Desktop\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.csproj.CoreCompileInputs.cache
+C:\Users\akinnsozen\Desktop\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.dll
+C:\Users\akinnsozen\Desktop\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\refint\TRUCK.Core.dll
+C:\Users\akinnsozen\Desktop\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.pdb
+C:\Users\akinnsozen\Desktop\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\ref\TRUCK.Core.dll
+C:\Users\akinnsozen\Desktop\SLN\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\bin\Debug\net5.0\TRUCK.Core.deps.json
+C:\Users\akinnsozen\Desktop\SLN\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\bin\Debug\net5.0\TRUCK.Core.dll
+C:\Users\akinnsozen\Desktop\SLN\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\bin\Debug\net5.0\TRUCK.Core.pdb
+C:\Users\akinnsozen\Desktop\SLN\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.csproj.AssemblyReference.cache
+C:\Users\akinnsozen\Desktop\SLN\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akinnsozen\Desktop\SLN\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.AssemblyInfoInputs.cache
+C:\Users\akinnsozen\Desktop\SLN\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.AssemblyInfo.cs
+C:\Users\akinnsozen\Desktop\SLN\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.csproj.CoreCompileInputs.cache
+C:\Users\akinnsozen\Desktop\SLN\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.dll
+C:\Users\akinnsozen\Desktop\SLN\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\refint\TRUCK.Core.dll
+C:\Users\akinnsozen\Desktop\SLN\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.pdb
+C:\Users\akinnsozen\Desktop\SLN\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\ref\TRUCK.Core.dll
+C:\Users\Akın Sözen\Desktop\TRUCK (1)\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\bin\Debug\net5.0\TRUCK.Core.deps.json
+C:\Users\Akın Sözen\Desktop\TRUCK (1)\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\bin\Debug\net5.0\TRUCK.Core.dll
+C:\Users\Akın Sözen\Desktop\TRUCK (1)\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\bin\Debug\net5.0\TRUCK.Core.pdb
+C:\Users\Akın Sözen\Desktop\TRUCK (1)\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.csproj.AssemblyReference.cache
+C:\Users\Akın Sözen\Desktop\TRUCK (1)\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akın Sözen\Desktop\TRUCK (1)\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.AssemblyInfoInputs.cache
+C:\Users\Akın Sözen\Desktop\TRUCK (1)\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.AssemblyInfo.cs
+C:\Users\Akın Sözen\Desktop\TRUCK (1)\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.csproj.CoreCompileInputs.cache
+C:\Users\Akın Sözen\Desktop\TRUCK (1)\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.dll
+C:\Users\Akın Sözen\Desktop\TRUCK (1)\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\refint\TRUCK.Core.dll
+C:\Users\Akın Sözen\Desktop\TRUCK (1)\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.pdb
+C:\Users\Akın Sözen\Desktop\TRUCK (1)\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\ref\TRUCK.Core.dll
+C:\Users\Akın Sözen\Desktop\TRUCK (2)\TRUCK (1)\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\bin\Debug\net5.0\TRUCK.Core.deps.json
+C:\Users\Akın Sözen\Desktop\TRUCK (2)\TRUCK (1)\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\bin\Debug\net5.0\TRUCK.Core.dll
+C:\Users\Akın Sözen\Desktop\TRUCK (2)\TRUCK (1)\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\bin\Debug\net5.0\TRUCK.Core.pdb
+C:\Users\Akın Sözen\Desktop\TRUCK (2)\TRUCK (1)\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.csproj.AssemblyReference.cache
+C:\Users\Akın Sözen\Desktop\TRUCK (2)\TRUCK (1)\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akın Sözen\Desktop\TRUCK (2)\TRUCK (1)\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.AssemblyInfoInputs.cache
+C:\Users\Akın Sözen\Desktop\TRUCK (2)\TRUCK (1)\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.AssemblyInfo.cs
+C:\Users\Akın Sözen\Desktop\TRUCK (2)\TRUCK (1)\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.csproj.CoreCompileInputs.cache
+C:\Users\Akın Sözen\Desktop\TRUCK (2)\TRUCK (1)\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.dll
+C:\Users\Akın Sözen\Desktop\TRUCK (2)\TRUCK (1)\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\refint\TRUCK.Core.dll
+C:\Users\Akın Sözen\Desktop\TRUCK (2)\TRUCK (1)\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.pdb
+C:\Users\Akın Sözen\Desktop\TRUCK (2)\TRUCK (1)\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\ref\TRUCK.Core.dll
+C:\Users\Akın Sözen\Desktop\TRUCK (2)\TRUCK (2)\TRUCK (1)\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\bin\Debug\net5.0\TRUCK.Core.deps.json
+C:\Users\Akın Sözen\Desktop\TRUCK (2)\TRUCK (2)\TRUCK (1)\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\bin\Debug\net5.0\TRUCK.Core.dll
+C:\Users\Akın Sözen\Desktop\TRUCK (2)\TRUCK (2)\TRUCK (1)\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\bin\Debug\net5.0\TRUCK.Core.pdb
+C:\Users\Akın Sözen\Desktop\TRUCK (2)\TRUCK (2)\TRUCK (1)\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.csproj.AssemblyReference.cache
+C:\Users\Akın Sözen\Desktop\TRUCK (2)\TRUCK (2)\TRUCK (1)\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akın Sözen\Desktop\TRUCK (2)\TRUCK (2)\TRUCK (1)\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.AssemblyInfoInputs.cache
+C:\Users\Akın Sözen\Desktop\TRUCK (2)\TRUCK (2)\TRUCK (1)\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.AssemblyInfo.cs
+C:\Users\Akın Sözen\Desktop\TRUCK (2)\TRUCK (2)\TRUCK (1)\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.csproj.CoreCompileInputs.cache
+C:\Users\Akın Sözen\Desktop\TRUCK (2)\TRUCK (2)\TRUCK (1)\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.dll
+C:\Users\Akın Sözen\Desktop\TRUCK (2)\TRUCK (2)\TRUCK (1)\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\refint\TRUCK.Core.dll
+C:\Users\Akın Sözen\Desktop\TRUCK (2)\TRUCK (2)\TRUCK (1)\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.pdb
+C:\Users\Akın Sözen\Desktop\TRUCK (2)\TRUCK (2)\TRUCK (1)\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\ref\TRUCK.Core.dll
+C:\Users\Akın Sözen\Desktop\TRUCK (2)\TRUCK (2)\TRUCK (2)\TRUCK (1)\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\bin\Debug\net5.0\TRUCK.Core.deps.json
+C:\Users\Akın Sözen\Desktop\TRUCK (2)\TRUCK (2)\TRUCK (2)\TRUCK (1)\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\bin\Debug\net5.0\TRUCK.Core.dll
+C:\Users\Akın Sözen\Desktop\TRUCK (2)\TRUCK (2)\TRUCK (2)\TRUCK (1)\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\bin\Debug\net5.0\TRUCK.Core.pdb
+C:\Users\Akın Sözen\Desktop\TRUCK (2)\TRUCK (2)\TRUCK (2)\TRUCK (1)\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.csproj.AssemblyReference.cache
+C:\Users\Akın Sözen\Desktop\TRUCK (2)\TRUCK (2)\TRUCK (2)\TRUCK (1)\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akın Sözen\Desktop\TRUCK (2)\TRUCK (2)\TRUCK (2)\TRUCK (1)\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.AssemblyInfoInputs.cache
+C:\Users\Akın Sözen\Desktop\TRUCK (2)\TRUCK (2)\TRUCK (2)\TRUCK (1)\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.AssemblyInfo.cs
+C:\Users\Akın Sözen\Desktop\TRUCK (2)\TRUCK (2)\TRUCK (2)\TRUCK (1)\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.csproj.CoreCompileInputs.cache
+C:\Users\Akın Sözen\Desktop\TRUCK (2)\TRUCK (2)\TRUCK (2)\TRUCK (1)\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.dll
+C:\Users\Akın Sözen\Desktop\TRUCK (2)\TRUCK (2)\TRUCK (2)\TRUCK (1)\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\refint\TRUCK.Core.dll
+C:\Users\Akın Sözen\Desktop\TRUCK (2)\TRUCK (2)\TRUCK (2)\TRUCK (1)\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.pdb
+C:\Users\Akın Sözen\Desktop\TRUCK (2)\TRUCK (2)\TRUCK (2)\TRUCK (1)\TRUCK (1)\TRUCK\TRUCK\TRUCK\TRUCK.Core\obj\Debug\net5.0\ref\TRUCK.Core.dll
+C:\Users\Akın Sözen\Desktop\TRUCK-test\TRUCK.Core\bin\Debug\net5.0\TRUCK.Core.deps.json
+C:\Users\Akın Sözen\Desktop\TRUCK-test\TRUCK.Core\bin\Debug\net5.0\TRUCK.Core.dll
+C:\Users\Akın Sözen\Desktop\TRUCK-test\TRUCK.Core\bin\Debug\net5.0\TRUCK.Core.pdb
+C:\Users\Akın Sözen\Desktop\TRUCK-test\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.csproj.AssemblyReference.cache
+C:\Users\Akın Sözen\Desktop\TRUCK-test\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akın Sözen\Desktop\TRUCK-test\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.AssemblyInfoInputs.cache
+C:\Users\Akın Sözen\Desktop\TRUCK-test\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.AssemblyInfo.cs
+C:\Users\Akın Sözen\Desktop\TRUCK-test\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.csproj.CoreCompileInputs.cache
+C:\Users\Akın Sözen\Desktop\TRUCK-test\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.dll
+C:\Users\Akın Sözen\Desktop\TRUCK-test\TRUCK.Core\obj\Debug\net5.0\refint\TRUCK.Core.dll
+C:\Users\Akın Sözen\Desktop\TRUCK-test\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.pdb
+C:\Users\Akın Sözen\Desktop\TRUCK-test\TRUCK.Core\obj\Debug\net5.0\ref\TRUCK.Core.dll
+C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\TRUCK-test\TRUCK.Core\bin\Debug\net5.0\TRUCK.Core.deps.json
+C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\TRUCK-test\TRUCK.Core\bin\Debug\net5.0\TRUCK.Core.dll
+C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\TRUCK-test\TRUCK.Core\bin\Debug\net5.0\TRUCK.Core.pdb
+C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\TRUCK-test\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.csproj.AssemblyReference.cache
+C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\TRUCK-test\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\TRUCK-test\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.AssemblyInfoInputs.cache
+C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\TRUCK-test\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.AssemblyInfo.cs
+C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\TRUCK-test\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.csproj.CoreCompileInputs.cache
+C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\TRUCK-test\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.dll
+C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\TRUCK-test\TRUCK.Core\obj\Debug\net5.0\refint\TRUCK.Core.dll
+C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\TRUCK-test\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.pdb
+C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\TRUCK-test\TRUCK.Core\obj\Debug\net5.0\ref\TRUCK.Core.dll
+C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\TRUCK\TRUCK.Core\bin\Debug\net5.0\TRUCK.Core.deps.json
+C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\TRUCK\TRUCK.Core\bin\Debug\net5.0\TRUCK.Core.dll
+C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\TRUCK\TRUCK.Core\bin\Debug\net5.0\TRUCK.Core.pdb
+C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.csproj.AssemblyReference.cache
+C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.AssemblyInfoInputs.cache
+C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.AssemblyInfo.cs
+C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.csproj.CoreCompileInputs.cache
+C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.dll
+C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\TRUCK\TRUCK.Core\obj\Debug\net5.0\refint\TRUCK.Core.dll
+C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\TRUCK\TRUCK.Core\obj\Debug\net5.0\TRUCK.Core.pdb
+C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\TRUCK\TRUCK.Core\obj\Debug\net5.0\ref\TRUCK.Core.dll
